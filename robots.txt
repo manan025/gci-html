@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /no-access.html
+Disallow: /robo/
